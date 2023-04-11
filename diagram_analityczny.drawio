@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2023-04-11T21:49:35.079Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="mrbILKyI7VPcfNqUZ-c2" version="21.1.6" type="device">
+<mxfile host="app.diagrams.net" modified="2023-04-11T21:52:42.996Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="oTmltdi4oR1oU0c7j6JR" version="21.1.6" type="github">
   <diagram name="Strona-1" id="iNXH7GP9BoPuN7J0axc2">
-    <mxGraphModel dx="6263" dy="2889" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5425" dy="2576" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Q1delwbIQnUipy94MsMF-140" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-1550" y="540" width="530" height="670" as="geometry" />
+          <mxGeometry x="-1560" y="450" width="530" height="670" as="geometry" />
         </mxCell>
         <mxCell id="Q1delwbIQnUipy94MsMF-126" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-271.08000000000004" y="650" width="330" height="380" as="geometry" />
+          <mxGeometry x="-340.00000000000006" y="700" width="330" height="380" as="geometry" />
         </mxCell>
         <mxCell id="Q1delwbIQnUipy94MsMF-100" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="-920" y="-270" width="620" height="570" as="geometry" />
@@ -17,7 +17,7 @@
           <mxGeometry x="-1610" y="-220" width="500" height="420" as="geometry" />
         </mxCell>
         <mxCell id="Q1delwbIQnUipy94MsMF-84" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-881.08" y="350" width="480" height="730" as="geometry" />
+          <mxGeometry x="-950" y="400" width="480" height="730" as="geometry" />
         </mxCell>
         <mxCell id="Q1delwbIQnUipy94MsMF-41" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;startArrow=none;startFill=0;endArrow=open;endFill=0;" parent="1" source="Q1delwbIQnUipy94MsMF-2" target="Q1delwbIQnUipy94MsMF-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -97,7 +97,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Q1delwbIQnUipy94MsMF-10" value="Strona koncertu" style="shape=umlBoundary;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-196.08" y="690" width="100" height="80" as="geometry" />
+          <mxGeometry x="-265" y="740" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Q1delwbIQnUipy94MsMF-51" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;startArrow=none;startFill=0;endArrow=open;endFill=0;" parent="1" source="Q1delwbIQnUipy94MsMF-11" target="Q1delwbIQnUipy94MsMF-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -144,7 +144,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Q1delwbIQnUipy94MsMF-18" value="strona administratora" style="shape=umlBoundary;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1420" y="760" width="100" height="80" as="geometry" />
+          <mxGeometry x="-1430" y="670" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Q1delwbIQnUipy94MsMF-40" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;startArrow=none;startFill=0;endArrow=open;endFill=0;" parent="1" source="Q1delwbIQnUipy94MsMF-38" target="Q1delwbIQnUipy94MsMF-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -174,7 +174,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Q1delwbIQnUipy94MsMF-53" value="administrator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-1590" y="770" width="30" height="60" as="geometry" />
+          <mxGeometry x="-1600" y="680" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q1delwbIQnUipy94MsMF-57" value="użytkownik" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="-1590" y="340" width="30" height="60" as="geometry" />
@@ -183,13 +183,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Q1delwbIQnUipy94MsMF-65" value="wyświetl strone wyszukiwania" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-731.08" y="530" width="70" height="80" as="geometry" />
+          <mxGeometry x="-800" y="580" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Q1delwbIQnUipy94MsMF-89" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;startArrow=none;startFill=0;endArrow=open;endFill=0;" parent="1" source="Q1delwbIQnUipy94MsMF-69" target="Q1delwbIQnUipy94MsMF-88" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Q1delwbIQnUipy94MsMF-69" value="strona wyszukiwania" style="shape=umlBoundary;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-866.08" y="645" width="100" height="80" as="geometry" />
+          <mxGeometry x="-935" y="695" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Q1delwbIQnUipy94MsMF-80" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;startArrow=none;startFill=0;endArrow=open;endFill=0;" parent="1" source="Q1delwbIQnUipy94MsMF-71" target="Q1delwbIQnUipy94MsMF-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -211,13 +211,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Q1delwbIQnUipy94MsMF-72" value="koncert znaleziony?" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-731.08" y="740" width="70" height="80" as="geometry" />
+          <mxGeometry x="-800" y="790" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Q1delwbIQnUipy94MsMF-90" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;startArrow=none;startFill=0;endArrow=open;endFill=0;" parent="1" source="Q1delwbIQnUipy94MsMF-76" target="Q1delwbIQnUipy94MsMF-69" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Q1delwbIQnUipy94MsMF-76" value="wyświetl strone wyszukiwania" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-731.08" y="870" width="70" height="80" as="geometry" />
+          <mxGeometry x="-800" y="920" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Q1delwbIQnUipy94MsMF-92" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;startArrow=none;startFill=0;endArrow=open;endFill=0;" parent="1" source="Q1delwbIQnUipy94MsMF-88" target="Q1delwbIQnUipy94MsMF-72" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -226,13 +226,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Q1delwbIQnUipy94MsMF-88" value="szukaj koncertu" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-731.08" y="630" width="70" height="80" as="geometry" />
+          <mxGeometry x="-800" y="680" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Q1delwbIQnUipy94MsMF-122" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;startArrow=none;startFill=0;endArrow=open;endFill=0;" parent="1" source="Q1delwbIQnUipy94MsMF-71" target="Q1delwbIQnUipy94MsMF-121" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Q1delwbIQnUipy94MsMF-71" value="wyświetl strone koncertu" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-601.08" y="800" width="70" height="80" as="geometry" />
+          <mxGeometry x="-670" y="850" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Q1delwbIQnUipy94MsMF-94" value="baza użytkowników" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="-1220" y="-140" width="80" height="80" as="geometry" />
@@ -281,10 +281,10 @@
           <mxGeometry x="-500" y="50" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Q1delwbIQnUipy94MsMF-119" value="baza koncertów" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-584.08" y="620" width="80" height="80" as="geometry" />
+          <mxGeometry x="-653" y="670" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Q1delwbIQnUipy94MsMF-121" value="koncert" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-551.08" y="920" width="80" height="80" as="geometry" />
+          <mxGeometry x="-620" y="970" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Q1delwbIQnUipy94MsMF-124" value="bilet" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="-500" y="200" width="80" height="80" as="geometry" />
@@ -306,58 +306,58 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Q1delwbIQnUipy94MsMF-127" value="czy udało się dodać do koszyka" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-181.08" y="820" width="70" height="80" as="geometry" />
+          <mxGeometry x="-250" y="870" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Q1delwbIQnUipy94MsMF-137" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;startArrow=none;startFill=0;endArrow=open;endFill=0;" parent="1" source="Q1delwbIQnUipy94MsMF-129" target="Q1delwbIQnUipy94MsMF-71" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Q1delwbIQnUipy94MsMF-129" value="dodaj do koszyka" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-61.08000000000001" y="920" width="70" height="80" as="geometry" />
+          <mxGeometry x="-130" y="970" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Q1delwbIQnUipy94MsMF-144" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="1" source="Q1delwbIQnUipy94MsMF-141" target="Q1delwbIQnUipy94MsMF-143" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Q1delwbIQnUipy94MsMF-141" value="wyświetl stronę z transakcjami" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-1230" y="760" width="70" height="80" as="geometry" />
+          <mxGeometry x="-1240" y="670" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Q1delwbIQnUipy94MsMF-146" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="1" source="Q1delwbIQnUipy94MsMF-143" target="Q1delwbIQnUipy94MsMF-145" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Q1delwbIQnUipy94MsMF-143" value="strona transakcji" style="shape=umlBoundary;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1420" y="660" width="100" height="80" as="geometry" />
+          <mxGeometry x="-1430" y="570" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Q1delwbIQnUipy94MsMF-148" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="1" source="Q1delwbIQnUipy94MsMF-145" target="Q1delwbIQnUipy94MsMF-147" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Q1delwbIQnUipy94MsMF-145" value="wyświetl stronę z opisem transakcji" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-1230" y="665" width="70" height="80" as="geometry" />
+          <mxGeometry x="-1240" y="575" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Q1delwbIQnUipy94MsMF-150" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;startArrow=none;startFill=0;endArrow=open;endFill=0;" parent="1" source="Q1delwbIQnUipy94MsMF-147" target="Q1delwbIQnUipy94MsMF-149" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Q1delwbIQnUipy94MsMF-147" value="strona transakcji użytkownika" style="shape=umlBoundary;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1420" y="550" width="100" height="80" as="geometry" />
+          <mxGeometry x="-1430" y="460" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Q1delwbIQnUipy94MsMF-152" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;startArrow=none;startFill=0;endArrow=open;endFill=0;" parent="1" source="Q1delwbIQnUipy94MsMF-149" target="Q1delwbIQnUipy94MsMF-145" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Q1delwbIQnUipy94MsMF-149" value="edytuj transakcje" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-1230" y="550" width="70" height="80" as="geometry" />
+          <mxGeometry x="-1240" y="460" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Z8B9sIb6P5ZMhgzzc1TP-7" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;" parent="1" source="Z8B9sIb6P5ZMhgzzc1TP-2" target="Z8B9sIb6P5ZMhgzzc1TP-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z8B9sIb6P5ZMhgzzc1TP-2" value="wyświetl stronę z nazwami użytkowników" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-1230" y="870" width="70" height="80" as="geometry" />
+          <mxGeometry x="-1240" y="780" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Z8B9sIb6P5ZMhgzzc1TP-9" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;" parent="1" source="Z8B9sIb6P5ZMhgzzc1TP-5" target="Z8B9sIb6P5ZMhgzzc1TP-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z8B9sIb6P5ZMhgzzc1TP-5" value="strona z użytkownikami" style="shape=umlBoundary;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1420" y="870" width="100" height="80" as="geometry" />
+          <mxGeometry x="-1430" y="780" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Z8B9sIb6P5ZMhgzzc1TP-6" value="strona z danymi użytkownika" style="shape=umlBoundary;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1420" y="990" width="100" height="80" as="geometry" />
+          <mxGeometry x="-1430" y="900" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Z8B9sIb6P5ZMhgzzc1TP-10" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;" parent="1" source="Z8B9sIb6P5ZMhgzzc1TP-8" target="Z8B9sIb6P5ZMhgzzc1TP-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -366,13 +366,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z8B9sIb6P5ZMhgzzc1TP-8" value="wyświetl stronę z danymi użytkownika" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-1230" y="990" width="70" height="80" as="geometry" />
+          <mxGeometry x="-1240" y="900" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Z8B9sIb6P5ZMhgzzc1TP-12" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;startArrow=open;startFill=0;" parent="1" source="Z8B9sIb6P5ZMhgzzc1TP-11" target="Z8B9sIb6P5ZMhgzzc1TP-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z8B9sIb6P5ZMhgzzc1TP-11" value="edytuj dane użytkownika" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-1230" y="1100" width="70" height="80" as="geometry" />
+          <mxGeometry x="-1240" y="1010" width="70" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

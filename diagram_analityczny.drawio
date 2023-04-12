@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-12T06:30:43.681Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="S-15xajvLkTAjFM4muLk" version="21.0.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-12T11:23:16.818Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="ZjkCr0cXw24Jvv1JlUnZ" version="21.1.6" type="github">
   <diagram name="Strona-1" id="iNXH7GP9BoPuN7J0axc2">
-    <mxGraphModel dx="2768" dy="1753" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3882" dy="2337" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="-1560" y="450" width="530" height="670" as="geometry" />
         </mxCell>
         <mxCell id="Q1delwbIQnUipy94MsMF-126" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-340.00000000000006" y="700" width="330" height="380" as="geometry" />
+          <mxGeometry x="-340" y="730" width="330" height="350" as="geometry" />
         </mxCell>
         <mxCell id="Q1delwbIQnUipy94MsMF-100" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="-920" y="-270" width="620" height="570" as="geometry" />
@@ -17,7 +17,7 @@
           <mxGeometry x="-1610" y="-220" width="500" height="420" as="geometry" />
         </mxCell>
         <mxCell id="Q1delwbIQnUipy94MsMF-84" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-950" y="400" width="480" height="730" as="geometry" />
+          <mxGeometry x="-950" y="560" width="480" height="530" as="geometry" />
         </mxCell>
         <mxCell id="Q1delwbIQnUipy94MsMF-41" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;startArrow=none;startFill=0;endArrow=open;endFill=0;" parent="1" source="Q1delwbIQnUipy94MsMF-2" target="Q1delwbIQnUipy94MsMF-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -311,7 +311,7 @@
         <mxCell id="Q1delwbIQnUipy94MsMF-144" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="1" source="Q1delwbIQnUipy94MsMF-141" target="Q1delwbIQnUipy94MsMF-143" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YiKQ8TfdvcXrFuWDNM5Q-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="Q1delwbIQnUipy94MsMF-141" target="YiKQ8TfdvcXrFuWDNM5Q-9">
+        <mxCell id="YiKQ8TfdvcXrFuWDNM5Q-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="Q1delwbIQnUipy94MsMF-141" target="YiKQ8TfdvcXrFuWDNM5Q-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Q1delwbIQnUipy94MsMF-141" value="wyświetl stronę z transakcjami" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
@@ -338,7 +338,7 @@
         <mxCell id="Q1delwbIQnUipy94MsMF-152" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;startArrow=none;startFill=0;endArrow=open;endFill=0;" parent="1" source="Q1delwbIQnUipy94MsMF-149" target="Q1delwbIQnUipy94MsMF-145" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YiKQ8TfdvcXrFuWDNM5Q-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="Q1delwbIQnUipy94MsMF-149" target="YiKQ8TfdvcXrFuWDNM5Q-9">
+        <mxCell id="YiKQ8TfdvcXrFuWDNM5Q-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="Q1delwbIQnUipy94MsMF-149" target="YiKQ8TfdvcXrFuWDNM5Q-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Q1delwbIQnUipy94MsMF-149" value="edytuj transakcje" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
@@ -347,7 +347,7 @@
         <mxCell id="Z8B9sIb6P5ZMhgzzc1TP-7" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;" parent="1" source="Z8B9sIb6P5ZMhgzzc1TP-2" target="Z8B9sIb6P5ZMhgzzc1TP-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YiKQ8TfdvcXrFuWDNM5Q-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="Z8B9sIb6P5ZMhgzzc1TP-2" target="YiKQ8TfdvcXrFuWDNM5Q-3">
+        <mxCell id="YiKQ8TfdvcXrFuWDNM5Q-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="Z8B9sIb6P5ZMhgzzc1TP-2" target="YiKQ8TfdvcXrFuWDNM5Q-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z8B9sIb6P5ZMhgzzc1TP-2" value="wyświetl stronę z nazwami użytkowników" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
@@ -368,7 +368,7 @@
         <mxCell id="Z8B9sIb6P5ZMhgzzc1TP-13" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;startArrow=open;startFill=0;" parent="1" source="Z8B9sIb6P5ZMhgzzc1TP-8" target="Z8B9sIb6P5ZMhgzzc1TP-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YiKQ8TfdvcXrFuWDNM5Q-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="Z8B9sIb6P5ZMhgzzc1TP-8" target="YiKQ8TfdvcXrFuWDNM5Q-3">
+        <mxCell id="YiKQ8TfdvcXrFuWDNM5Q-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="Z8B9sIb6P5ZMhgzzc1TP-8" target="YiKQ8TfdvcXrFuWDNM5Q-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z8B9sIb6P5ZMhgzzc1TP-8" value="wyświetl stronę z danymi użytkownika" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
@@ -377,16 +377,16 @@
         <mxCell id="Z8B9sIb6P5ZMhgzzc1TP-12" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;startArrow=open;startFill=0;" parent="1" source="Z8B9sIb6P5ZMhgzzc1TP-11" target="Z8B9sIb6P5ZMhgzzc1TP-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YiKQ8TfdvcXrFuWDNM5Q-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="Z8B9sIb6P5ZMhgzzc1TP-11" target="YiKQ8TfdvcXrFuWDNM5Q-3">
+        <mxCell id="YiKQ8TfdvcXrFuWDNM5Q-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="Z8B9sIb6P5ZMhgzzc1TP-11" target="YiKQ8TfdvcXrFuWDNM5Q-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z8B9sIb6P5ZMhgzzc1TP-11" value="edytuj dane użytkownika" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="-1240" y="1010" width="70" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="YiKQ8TfdvcXrFuWDNM5Q-3" value="użytkownik" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YiKQ8TfdvcXrFuWDNM5Q-3" value="użytkownik" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1110" y="850" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="YiKQ8TfdvcXrFuWDNM5Q-9" value="transakcja" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YiKQ8TfdvcXrFuWDNM5Q-9" value="transakcja" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1130" y="575" width="80" height="80" as="geometry" />
         </mxCell>
       </root>

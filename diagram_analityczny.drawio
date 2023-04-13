@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-13T10:22:16.918Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Tx4qERka6cL2ZPN3CLnN" version="21.1.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-04-13T10:22:33.218Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="xU_h5T9MWfwyp0EeUkyu" version="21.1.7" type="github" pages="2">
   <diagram name="demo" id="iNXH7GP9BoPuN7J0axc2">
     <mxGraphModel dx="3728" dy="1943" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -532,7 +532,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DK58Lw7kAdtsqbjAaFql-2" value="administrator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-660" y="930" width="30" height="60" as="geometry" />
+          <mxGeometry x="-650" y="1050" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DK58Lw7kAdtsqbjAaFql-14" value="użytkownicy" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-150" y="1040" width="80" height="80" as="geometry" />
@@ -544,13 +544,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iQDmsYkSppgsUJXl4y2c-5" value="system operatora kart" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-650" y="1170" width="30" height="60" as="geometry" />
+          <mxGeometry x="-670" y="1290" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iQDmsYkSppgsUJXl4y2c-10" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;startArrow=none;startFill=0;" parent="1" source="iQDmsYkSppgsUJXl4y2c-6" target="iQDmsYkSppgsUJXl4y2c-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iQDmsYkSppgsUJXl4y2c-6" value="system Pay-Pal" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-650" y="1290" width="30" height="60" as="geometry" />
+          <mxGeometry x="-660" y="1410" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iQDmsYkSppgsUJXl4y2c-14" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=open;endFill=0;startArrow=none;startFill=0;" parent="1" source="iQDmsYkSppgsUJXl4y2c-8" target="iQDmsYkSppgsUJXl4y2c-12" edge="1">
           <mxGeometry relative="1" as="geometry" />

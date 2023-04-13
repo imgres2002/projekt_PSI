@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-13T10:10:40.819Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="v_PC3Pu-5GIsLMwQvts5" version="21.1.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-04-13T10:18:12.946Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="xoKJACUg_SY8wOpHWyRH" version="21.1.7" type="github" pages="2">
   <diagram name="demo" id="iNXH7GP9BoPuN7J0axc2">
     <mxGraphModel dx="3728" dy="1943" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -415,9 +415,6 @@
         <mxCell id="DK58Lw7kAdtsqbjAaFql-3" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=block;endFill=0;" parent="1" source="E9xwQf-lYaljbnQ48vCq-4" target="DK58Lw7kAdtsqbjAaFql-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fDl6m1vRTlxVFLu-U-TR-5" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="E9xwQf-lYaljbnQ48vCq-4" target="fDl6m1vRTlxVFLu-U-TR-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="E9xwQf-lYaljbnQ48vCq-4" value="klient" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="-660" y="450" width="30" height="60" as="geometry" />
         </mxCell>
@@ -442,7 +439,7 @@
         <mxCell id="fDl6m1vRTlxVFLu-U-TR-2" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="E9xwQf-lYaljbnQ48vCq-12" target="E9xwQf-lYaljbnQ48vCq-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fDl6m1vRTlxVFLu-U-TR-9" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="E9xwQf-lYaljbnQ48vCq-12" target="fDl6m1vRTlxVFLu-U-TR-6">
+        <mxCell id="fDl6m1vRTlxVFLu-U-TR-9" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="E9xwQf-lYaljbnQ48vCq-12" target="fDl6m1vRTlxVFLu-U-TR-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="E9xwQf-lYaljbnQ48vCq-12" value="kontroler zamówienia" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">

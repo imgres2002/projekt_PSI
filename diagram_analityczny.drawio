@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-13T00:20:57.996Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="TsbPQ2WdJbBtfkG5zdRo" version="21.1.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-04-13T00:30:30.309Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="MV26WDTZiCRb9bGZGjI5" version="21.1.7" type="github" pages="2">
   <diagram name="demo" id="iNXH7GP9BoPuN7J0axc2">
     <mxGraphModel dx="2974" dy="2442" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -436,12 +436,6 @@
         <mxCell id="E9xwQf-lYaljbnQ48vCq-7" value="złóż zamówienie" style="shape=umlBoundary;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-520" y="560" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DK58Lw7kAdtsqbjAaFql-12" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" parent="1" source="E9xwQf-lYaljbnQ48vCq-12" target="E9xwQf-lYaljbnQ48vCq-16" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="iQDmsYkSppgsUJXl4y2c-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="E9xwQf-lYaljbnQ48vCq-12" target="DK58Lw7kAdtsqbjAaFql-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="E9xwQf-lYaljbnQ48vCq-12" value="kontroler zamówienia" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="-360" y="560" width="70" height="80" as="geometry" />
         </mxCell>
@@ -537,25 +531,25 @@
         <mxCell id="iQDmsYkSppgsUJXl4y2c-2" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;System sprzedazy biletow&lt;/font&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
           <mxGeometry x="-560" y="300" width="510" height="1080" as="geometry" />
         </mxCell>
-        <mxCell id="iQDmsYkSppgsUJXl4y2c-11" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="iQDmsYkSppgsUJXl4y2c-5" target="iQDmsYkSppgsUJXl4y2c-8">
+        <mxCell id="iQDmsYkSppgsUJXl4y2c-11" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;startArrow=open;startFill=0;" edge="1" parent="1" source="iQDmsYkSppgsUJXl4y2c-5" target="iQDmsYkSppgsUJXl4y2c-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iQDmsYkSppgsUJXl4y2c-5" value="system operatora kart" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="-650" y="1170" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iQDmsYkSppgsUJXl4y2c-10" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="iQDmsYkSppgsUJXl4y2c-6" target="iQDmsYkSppgsUJXl4y2c-9">
+        <mxCell id="iQDmsYkSppgsUJXl4y2c-10" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;startArrow=open;startFill=0;" edge="1" parent="1" source="iQDmsYkSppgsUJXl4y2c-6" target="iQDmsYkSppgsUJXl4y2c-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iQDmsYkSppgsUJXl4y2c-6" value="system Pay-Pal" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="-650" y="1290" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iQDmsYkSppgsUJXl4y2c-14" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="iQDmsYkSppgsUJXl4y2c-8" target="iQDmsYkSppgsUJXl4y2c-12">
+        <mxCell id="iQDmsYkSppgsUJXl4y2c-14" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;startArrow=open;startFill=0;" edge="1" parent="1" source="iQDmsYkSppgsUJXl4y2c-8" target="iQDmsYkSppgsUJXl4y2c-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iQDmsYkSppgsUJXl4y2c-8" value="bank operatora kart" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-530" y="1160" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="iQDmsYkSppgsUJXl4y2c-15" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="iQDmsYkSppgsUJXl4y2c-9" target="iQDmsYkSppgsUJXl4y2c-13">
+        <mxCell id="iQDmsYkSppgsUJXl4y2c-15" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;startArrow=open;startFill=0;" edge="1" parent="1" source="iQDmsYkSppgsUJXl4y2c-9" target="iQDmsYkSppgsUJXl4y2c-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iQDmsYkSppgsUJXl4y2c-9" value="bank Pay-Pal" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -567,12 +561,19 @@
         <mxCell id="iQDmsYkSppgsUJXl4y2c-19" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="iQDmsYkSppgsUJXl4y2c-12" target="E9xwQf-lYaljbnQ48vCq-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iQDmsYkSppgsUJXl4y2c-21" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="iQDmsYkSppgsUJXl4y2c-12" target="E9xwQf-lYaljbnQ48vCq-12">
+        <mxCell id="iQDmsYkSppgsUJXl4y2c-21" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;startArrow=open;startFill=0;entryX=0.286;entryY=0.962;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iQDmsYkSppgsUJXl4y2c-12" target="E9xwQf-lYaljbnQ48vCq-12">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-343.72803356477925" y="1159.998113350508" as="sourcePoint" />
+            <mxPoint x="-355.3648628424894" y="603.7897256849783" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-370" y="1120" />
-              <mxPoint x="-370" y="690" />
+              <mxPoint x="-383" y="1089.06" />
+              <mxPoint x="-383" y="659.06" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iQDmsYkSppgsUJXl4y2c-23" value="użytkownik&lt;br&gt;wybiera&lt;br&gt;płatność&lt;br&gt;systemem Pap-Pal" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" connectable="0" parent="iQDmsYkSppgsUJXl4y2c-21">
+          <mxGeometry x="0.4539" relative="1" as="geometry">
+            <mxPoint x="13" y="26" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iQDmsYkSppgsUJXl4y2c-12" value="kontroler operatora kart" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
@@ -584,12 +585,18 @@
         <mxCell id="iQDmsYkSppgsUJXl4y2c-20" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="iQDmsYkSppgsUJXl4y2c-13" target="E9xwQf-lYaljbnQ48vCq-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iQDmsYkSppgsUJXl4y2c-22" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="iQDmsYkSppgsUJXl4y2c-13" target="E9xwQf-lYaljbnQ48vCq-12">
+        <mxCell id="iQDmsYkSppgsUJXl4y2c-22" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;startArrow=open;startFill=0;" edge="1" parent="1" source="iQDmsYkSppgsUJXl4y2c-13" target="E9xwQf-lYaljbnQ48vCq-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-400" y="1220" />
-              <mxPoint x="-400" y="680" />
+              <mxPoint x="-410" y="830" />
+              <mxPoint x="-480" y="690" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iQDmsYkSppgsUJXl4y2c-24" value="użytkownik&lt;br&gt;wybiera&lt;br&gt;płatność&lt;br&gt;systemem operatora&lt;br&gt;kart" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" connectable="0" parent="iQDmsYkSppgsUJXl4y2c-22">
+          <mxGeometry x="0.6196" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iQDmsYkSppgsUJXl4y2c-13" value="kontroler Pay-Pal" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">

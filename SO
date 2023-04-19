@@ -10,7 +10,7 @@ Katalogi w systemie Linux są przechowywane w systemie plików tak samo jak zwyk
 W systemie Linux istnieje katalog nadrzędny, zwany katalogiem głównym lub katalogiem głównym systemu (ang. root directory), który jest oznaczany przez znak "/", oraz katalogi podrzędne, które znajdują się wewnątrz innych katalogów. Pełna ścieżka dostępu do pliku lub katalogu rozpoczyna się od katalogu głównego i prowadzi przez hierarchię katalogów do danego pliku lub katalogu.
 
 B
-Zad1. b
+Zad1. c
 Zad2. a
 Zad3. d
 Zad4. a
@@ -19,17 +19,10 @@ C
 find . -maxdepth 1 -type d | wc -l
 ls -d */
 2.Policzyc ilu uzytkowników pracuje teraz na serwerze
-who | wc -l lub w | wc -l
+who | wc -l
 3. Wykorzystujac polecenie find znalezc wszsytkie puste pliki zwyklke w katalogu domowym i jego podkatalogach do poziomu 1
 find ~/ -maxdepth 1 -type f -empty
 4. Sprawdzic do ktorych plikow w katalogu domowym i wszystkich podkatalogach do poziomu 2 byl dostep w ciagu ostatnich 2 tygodni
 find ~/ -maxdepth 2 -type f -atime -14
 5. Napisac konstrukcje liczaca ile plikow o nazwach zaczynajacych sie na litere 'a' jest w biezacym katalogu.
 find ./ -maxdepth 1 -type f -name 'a*' | wc -l
-Powyższa konstrukcja wykorzystuje:
-"." - oznacza bieżący katalog,
-"-maxdepth 1" - wyszukuje tylko pliki z bieżącego katalogu (bez podkatalogów),
-"-type f" - wyszukuje tylko pliki,
-"-name 'a*'" - szuka tylko plików o nazwach zaczynających się na literę "a",
-"|" - przekierowuje wynik polecenia "find" do narzędzia "wc",
-"wc -l" - liczy ilość linii wyniku, co jest równoznaczne z liczbą znalezionych plików.

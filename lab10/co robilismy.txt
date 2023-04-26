@@ -1,0 +1,7 @@
+1 diagram kontekstowy
+2 diagram przypadków użycia 
+2a słownik pojęć
+2b scenariusz
+2c diagram czynności
+3 diagram analityczny
+4 interfejsy

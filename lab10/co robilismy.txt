@@ -5,7 +5,7 @@
 2c diagram czynności
 3 diagram analityczny
 3a interfejsy
-5 diagram klas
+4 diagram klas
 4a role
 4b krotność
 4c nazwa

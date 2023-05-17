@@ -1,0 +1,15 @@
+1 diagram kontekstowy
+2 diagram przypadków użycia 
+2a słownik pojęć
+2b scenariusz
+2c diagram czynności
+3 diagram analityczny
+3a interfejsy
+4 diagram klas
+4a role
+4b krotność
+4c nazwa
+5 diagram obiektów
+5a historyjka
+5b komiks
+6 diagram sekwencji
